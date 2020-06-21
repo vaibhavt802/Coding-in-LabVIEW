@@ -3,3 +3,8 @@ Implementation of Source Coding technique such as Shannon- fano coding, Run Leng
 
 # Watch simulation video on youtube
 YouTube URL - https://youtu.be/FL0JPhuVy0A
+
+# Resources refered
+1. Electronic Guide
+2. Wiki-pedia
+3. LabView tutorials from youtube.
