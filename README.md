@@ -1,5 +1,7 @@
 # Coding-in-LabVIEW
-Implementation of Source Coding technique such as Shannon- fano coding, Run Length coding in LabVIEW software.
+Implementation of compression algorithm such as Shannon- fano coding, Run Length coding, Huﬀman coding technique in LabVIEW software with GUI. 
+Learned about compression algorithms such as Shannon-fano, Run length, Huﬀman coding technique. 
+Learned about how complex algorithm are designed.
 
 # Watch simulation video on youtube
 YouTube URL - https://youtu.be/FL0JPhuVy0A
